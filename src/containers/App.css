@@ -1,0 +1,11 @@
+.container {
+    margin: 0 0 2vh 0;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    font-weight: 200;
+    color: #0ccac4;
+    font-size: calc(4vw + 4vh);
+    margin-bottom: 0;
+}
